@@ -1,7 +1,7 @@
 package com.mehmetunluu.backend.exception;
 
 /**
- * Created by Neval Bayram on 18.06.2016.
+ * Created by Mehmet ÜNLÜ on 18.06.2016.
  */
 public class UserNotFoundException extends Exception {
 

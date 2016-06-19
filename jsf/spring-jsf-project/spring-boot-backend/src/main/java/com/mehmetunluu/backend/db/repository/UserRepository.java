@@ -5,7 +5,7 @@ import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.CrudRepository;
 
 /**
- * Created by Neval Bayram on 18.06.2016.
+ * Created by Mehmet ÜNLÜ on 18.06.2016.
  */
 public interface UserRepository extends CrudRepository<User,Long> {
 

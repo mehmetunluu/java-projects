@@ -1,7 +1,7 @@
 package com.mehmetunluu.backend.controller;
 
 /**
- * Created by Neval Bayram on 18.06.2016.
+ * Created by Mehmet ÜNLÜ on 18.06.2016.
  */
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
