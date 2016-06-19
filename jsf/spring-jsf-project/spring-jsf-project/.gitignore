@@ -1,0 +1,14 @@
+spring-jsf-project.iml
+.idea
+spring-jsf-project.ipr
+spring-jsf-project.iws
+.idea/
+jsfProject/.idea
+jsfProject/classes
+jsfProject/jsfProject.iml
+jsfProject/target
+spring-boot-backend/.mvn
+spring-boot-backend/target
+spring-boot-backend/mvnw
+spring-boot-backend/mvnw.cmd
+spring-boot-backend/spring-boot-backend.iml

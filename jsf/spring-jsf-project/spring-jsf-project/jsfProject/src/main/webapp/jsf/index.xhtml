@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<ui:composition xmlns="http://www.w3.org/1999/xhtml"
+                xmlns:ui="http://java.sun.com/jsf/facelets"
+                xmlns:f="http://java.sun.com/jsf/core"
+                xmlns:h="http://java.sun.com/jsf/html"
+                xmlns:p="http://primefaces.org/ui"
+                template="../layout/templateFcms.xhtml">
+    <ui:define name="body">
+        <h:head>
+            <title>home</title>
+        </h:head>
+        <h:form>
+            <p:commandButton value="tikla2"/>
+            <p:panelGrid columns="2">
+                <p:outputLabel value="isim : "/>
+                <p:inputText value="#{homeController.name}"/>
+            </p:panelGrid>
+        </h:form>
+    </ui:define>
+</ui:composition>
